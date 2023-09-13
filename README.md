@@ -1,4 +1,4 @@
-# highestscorepython
+# Highest Score using Python
 
 Run in your Python reader and input a number of average scores for students.
 
